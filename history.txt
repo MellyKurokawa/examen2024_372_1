@@ -1,0 +1,367 @@
+    1  git init
+    2  git status
+    3  git add .
+    4  git commit -m "Iniciamos proyecto y agregamos practica 1"
+    5  git config --global user.name MellyKurokawa
+    6  git init
+    7  git status
+    8  git add .
+    9  git init
+   10  git status
+   11  git init
+   12  git status
+   13  git add .
+   14  git commit -m "Iniciamos proyecto y agregamos practica 1"
+   15  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   16  git config --global user.name MellyKurokawa
+   17  git branch -M main
+   18  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   19  git push -u origin main
+   20  git init
+   21  git status
+   22  git add .
+   23  git commit -m "Iniciamos proyecto y agregamos practica 1"
+   24  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   25  git config --global user.name MellyKurokawa
+   26  git branch -M main
+   27  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   28  git push -u origin main
+   29  git commit -m "Agregamos titulo al archivo html"
+   30  git init
+   31  git status
+   32  git init
+   33  git status
+   34  git add .
+   35  git init
+   36  git status
+   37  git add .
+   38  git commit -m "Agregamos la pŕactica 2"
+   39  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   40  git config --global user.name MellyKurokawa
+   41  git branch -M main
+   42  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   43  git push -u origin main
+   44  git init
+   45  git status
+   46  git add .
+   47  git commit -m "Practica 3_Gallegos Melissa"
+   48  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   49  git config --global user.name MellyKurokawa
+   50  git branch -M main
+   51  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   52  git push -u origin main
+   53  git init
+   54  git status
+   55  git add .
+   56  git commit -m "Practica 4_Gallegos Melissa"
+   57  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   58  git config --global user.name MellyKurokawa
+   59  git branch -M main
+   60  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   61  git push -u origin main
+   62  git init
+   63  git status
+   64  git add .
+   65  git commit -m "Práctica 5_Gallegos Melissa"
+   66  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   67  git config --global user.name MellyKurokawa
+   68  git branch -M main
+   69  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   70  git push -u origin main
+   71  git init
+   72  git status
+   73  git add .
+   74  git commit -m "Práctica 6_Gallegos Melissa"
+   75  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   76  git config --global user.name MellyKurokawa
+   77  git branch -M main
+   78  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   79  git push -u origin main
+   80  echo "Hello world"
+   81  print ("""Hello world""")
+   82  git init
+   83  git status
+   84  git add .
+   85  git commit -m "Práctica 7_Gallegos Melissa"
+   86  git config --global user.email melissa.gallegos39@uabc.edu.mx
+   87  git config --global user.name MellyKurokawa
+   88  git branch -M main
+   89  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+   90  git push -u origin main
+   91  git init
+   92  git status
+   93  git add .
+   94  git commit -m "Práctica 8_Gallegos Melissa"
+   95  git commit --global user.email melissa.gallegos39@uabc.edu.mx
+   96  git status
+   97  git init
+   98  git status
+   99  git add .
+  100  git commit -m "Práctica 8_Gallegos Melissa"
+  101  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  102  git config --global user.name MellyKurokawa
+  103  git branch -M main
+  104  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  105  git push -u origin main
+  106  git init
+  107  git status
+  108  git add .
+  109  git commit -m "Práctica 9_Gallegos Melissa"
+  110  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  111  git config --global user.name MellyKurokawa
+  112  git branch -M main
+  113  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  114  git push -u origin main
+  115  whoami
+  116  hostname
+  117  pwd
+  118  echo /
+  119  cd /
+  120  pwd
+  121  cd ~
+  122  pwd
+  123  ls
+  124  cd desktop/
+  125  cd Desktop/
+  126  cd:
+  127  cd: 
+  128  ls
+  129  st
+  130  cd De
+  131  cd Desktop/
+  132  rm -rf holi
+  133  cd holi
+  134  ls -l
+  135  rm -rf holi/
+  136  mkdir -p ./uno/dos/tres
+  137  explorer .
+  138  start .
+  139  start http://www.google.com
+  140  touch docu.docx
+  141  echo "Hola soy un archivo txt" > file.txt
+  142  echo "Me vale lo que tenía antes" > file.txt
+  143  cat file.txt
+  144  echo "virgulilla" > file.txt
+  145  cat file.txt
+  146  echo "holis" >> file.txt
+  147  history
+  148  git status
+  149  git add .
+  150  git commit -m "Práctica 10_Gallegos Melissa"
+  151  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  152  git config --global user.name MellyKurokawa
+  153  gir branch -M main
+  154  git branch -M main
+  155  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  156  git push -u origin main
+  157  rm -r./.git
+  158  pwd
+  159  ls
+  160  rm -rf .git
+  161  git status
+  162  git add .
+  163  git commit -m "Práctica 11_Gallegos Melissa"
+  164  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  165  git config --global user.name MellyKurokawa
+  166  git branch -M main
+  167  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  168  git push -u origin main
+  169  git status
+  170  git add .
+  171  git commit -m "Práctica 12_Gallegos Melissa"
+  172  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  173  git config --global user.name MellyKurokawa
+  174  git branch -M main
+  175  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  176  git push -u origin main
+  177  git status
+  178  git add .
+  179  git commit -m "Práctica 13_Gallegos Melissa"
+  180  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  181  git config --global user.name MellyKurokawa
+  182  git branch -M main
+  183  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  184  git push -u origin main
+  185  cd Desktop
+  186  cd Escritorio
+  187  ls
+  188  mkdir python
+  189  cd python
+  190  touch main.py; code .
+  191  cd Desktop
+  192  mkdir python
+  193  cd python
+  194  cd Desktop
+  195  pwd
+  196  mkdir ~/Desktop/jupyter/;cd ~/Desktop/jupyter; s
+  197  pip --version
+  198  mkdir jupyter
+  199  cd jupyter
+  200  pip uninstall jupyter
+  201  python -m venv virtual
+  202  python -m venv virtual
+  203  clean
+  204  pip install ipython
+  205  py -m venv virtual
+  206  git status
+  207  git status
+  208  git status
+  209  git add .
+  210  git commit -m "Práctica 14_Gallegos Melissa"
+  211  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  212  git config --global user.name MellyKurokawa
+  213  git branch -M main
+  214  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  215  git push -u origin main
+  216  git status
+  217  git add .
+  218  git commit -m "Práctica 15_Gallegos Melissa"
+  219  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  220  git config --global user.name MellyKurokawa
+  221  git branch -M main
+  222  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  223  git push -u origin main
+  224  git status
+  225  git status
+  226  git add .
+  227  git commit -m "Práctica 16_Gallegos Melissa"
+  228  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  229  git config --global user.name MellyKurokawa
+  230  git branch -M main
+  231  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  232  git push -u origin main
+  233  cd desktop
+  234  cd Escritorio
+  235  cd escrtorio
+  236  cd desktop
+  237  cd desktop
+  238  cd Escritorio
+  239  cd Desktop
+  240  cd ..
+  241  cd Desktop
+  242  cd ..
+  243  cd Desktop
+  244  cd Desktop
+  245  cd Ecritorio
+  246  cd Escritorio
+  247  cd
+  248  cd desktop
+  249  cd ..
+  250  cd ..
+  251  cd ..
+  252  cd ..
+  253  cd desktop
+  254  cd escritorio
+  255  Desktop
+  256  ls
+  257  Escritorio
+  258  cd Desktop
+  259  cd Escritorio
+  260  cd Desktop/
+  261  cd Escritorio/
+  262  cd Desktops
+  263  cd Escritorio/
+  264  cd Desktop
+  265  cd Desktop/
+  266  cd Escritorio
+  267  Escritorio
+  268  cd Escritorio
+  269  cd Desktop
+  270  cd Desktop
+  271  cd ..
+  272  cd .
+  273  ls
+  274  cd ..
+  275  cd Escritorio
+  276  cd Escritorio/
+  277  ls
+  278  cd Desktop/
+  279  ls
+  280  cd desktop
+  281  cd escritorio
+  282  cd Desktop
+  283  cd Escritorio
+  284  cd desktop
+  285  ls
+  286  ls
+  287  git status
+  288  git add .
+  289  git commit m "Pŕactica17_Gallegos Melissa"
+  290  git commit -m "Practica 17_Gallegos Melissa"
+  291  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  292  git config --global user.name MellyKurokawa
+  293  git branch -M main
+  294  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  295  git push -u origin main
+  296  git status
+  297  git add .
+  298  git commit -m "Practica 18_Gallegos Melissa"
+  299  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  300  git config --global user.name MellyKurokawa
+  301  git branch -M main
+  302  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  303  git push -u origin main
+  304  git status
+  305  git status
+  306  git add .
+  307  git commit -m "Practica 19_Gallegos Melissa"
+  308  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  309  git config --global user.name MellyKurokawa
+  310  git branch -M main
+  311  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  312  git push -u origin main
+  313  git status
+  314  git add .
+  315  git commit -m "Practica 20_Gallegos Melissa"
+  316  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  317  git config --global user.name MellyKurokawa
+  318  git branch -M main
+  319  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  320  git push -u origin main
+  321  git status
+  322  git add .
+  323  git commit -m "Practica 21_Gallegos Melissa"
+  324  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  325  git config --global user.name MellyKurokawa
+  326  git branch -M main
+  327  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  328  git push -u origin main
+  329  git status
+  330  git add .
+  331  git commit -m "Práctica 22_Gallegos Melissa"
+  332  git config --global user.email melissa.gallegos39@uabc.edu.mx
+  333  git config --global user.name MellyKurokawa
+  334  git branch -M main
+  335  git remote add origin https://github.com/MellyKurokawa/PracticasDSW.git
+  336  git push -u origin main
+  337  cd desktop
+  338  pwd
+  339  ls
+  340  cd Escritorio
+  341  cd Escritorio
+  342  cd instrucciones
+  343  cd examen372
+  344  ./create.sh
+  345  ./create.sh
+  346  ./create.sh
+  347  ./create.sh
+  348  ./create.sh
+  349  ls
+  350  ls
+  351  ./create.sh
+  352  ./create.sh
+  353  cmd //c tree //F ./
+  354  ./create.sh
+  355  cd webapp
+  356  file?.txt docs/text
+  357  fileN.txt docs/text
+  358  ./create.sh
+  359  cd ..
+  360  ./create.sh
+  361  cmd //c tree //F ./
+  362  cmd //c tree //F ./
+  363  ./create.sh
+  364  cmd //c tree //F ./
+  365  cd ..
+  366  mv examen372.md README.md
+  367  history > history.txt
